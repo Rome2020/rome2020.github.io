@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/posts/</loc><lastmod>2022-03-08T19:24:29&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2022-03-08T19:24:29&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2022-03-10T15:03:15&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2022-03-10T15:03:15&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/secure/dev-ebpf-with-go/</loc><lastmod>2022-03-10T15:03:15&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/secure/dev-xdp/</loc><lastmod>2022-03-08T19:24:29&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/secure/about-xdp/</loc><lastmod>2022-03-07T14:59:05&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/cve-2021-4034-wp/</loc><lastmod>2022-02-10T11:12:25&#43;08:00</lastmod></url><url>
